@@ -9,7 +9,7 @@
 ### 📱 **Contact and Social Networks**
 
 <div align="left" text-decoration="none">
-  <a href="mailto:eltobrgs@gmail.com">
+  <a href="mailto:eltobrgz.dev@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://wa.me/5589994042351?text=Ol%C3%A1,%20Elto!%20Vim%20pelo%20pelo%20seu%20GITHUB">
