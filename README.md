@@ -36,7 +36,7 @@
 ### 📊 **My Stats**
 
 <div align="center">
-  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=10&theme=dark"/>
-  <img alt="eltobrgs GitHub Stats" align="left" width="51.5%" src="https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=dark"/>
+  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgz&layout=compact&langs_count=10&theme=dark"/>
+  <img alt="eltobrgs GitHub Stats" align="left" width="51.5%" src="https://github-readme-stats.vercel.app/api?username=eltobrgz&show_icons=true&theme=dark"/>
 </div>
 
